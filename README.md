@@ -2,7 +2,7 @@
 
 This repository holds the source code for a search engine I wrote for a
 university paper. Unfortunately, I do not have the rights to publish the data
-we used.
+we used, so the engine isn't functional in it's current form.
 
 ## Broad architecture overview
 
